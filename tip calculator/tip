@@ -1,0 +1,11 @@
+total_amount = input ("Enter total amount ")
+tip_percentage = input ("Enter tip amount ")
+
+cal_tip = int(tip_percentage) / int(100)
+
+
+tip_amount = int(total_amount) * (cal_tip)
+
+
+
+print(tip_amount)

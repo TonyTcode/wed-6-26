@@ -8,4 +8,4 @@ def remove(names):
 
 names = ["Alex", "John", "Mary", "Steve", "John", "Steve"]
 
-print(remove(names))
+print(remove(names))final_list
